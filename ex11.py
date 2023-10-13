@@ -6,4 +6,4 @@ if n > 0:
 elif n < 0:
     print(str(n) + " este negativ")
 else:
-    print(str(n) + " este 0 (wow)")
+    print(str(n) + " este 0 ")
